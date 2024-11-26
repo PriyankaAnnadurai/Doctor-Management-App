@@ -16,4 +16,8 @@ This is a web application that helps manage doctor information such as their nam
 - **Backend**: NodeJS, ExpressJS
 - **Database**: MongoDB (NoSQL)
 
+## Output
+
+![image](https://github.com/user-attachments/assets/bb6a2e43-49c5-4290-91d3-7ae5e4954f91)
+
 
